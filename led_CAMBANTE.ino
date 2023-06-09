@@ -1,3 +1,14 @@
+/*
+ * Fundacion Kinal
+ * Centro educativo tecnico laboral Kinal
+ * Electronica
+ * Grado: Quinto
+ * Sección: A
+ * Curso: Taller de electronica digital y reparación de computadoras I
+ * Nombre: Javier Andre Gonzalez Barrera
+ * Carnet: 2019474
+ * Proyecto: Practica #3
+*/
 #define potenciometro A0
 #define LED_pro 6
 
