@@ -7,7 +7,7 @@
  * Curso: Taller de electronica digital y reparación de computadoras I
  * Nombre: Javier Andre Gonzalez Barrera
  * Carnet: 2019474
- * Proyecto: Practica #3
+ * Proyecto: Practica #2
 */
 #include <Ticker.h>
 
